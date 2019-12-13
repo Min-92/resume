@@ -1,4 +1,4 @@
 # RESUME
 
-### [이력서 바로가기](https://github.com/Min-92/resume/blob/d56f06ba61964ccd68679e27f9b76a7113b2fe14/resume.pdf)
+### [이력서 바로가기](https://github.com/Min-92/resume/blob/3730bf0263d546c78e0b6aeefa4966a19d44ccd0/resume.pdf)
 
