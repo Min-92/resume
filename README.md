@@ -2,9 +2,11 @@
 
 백엔드 개발자 이민재의 이력서 입니다.
 
-### [이력서 바로가기](https://github.com/Min-92/resume/blob/e5f25a9862d2b0f55c95618fa82b6a97407564ad/resume.pdf)
+### [이력서 바로가기](https://github.com/Min-92/resume/blob/master/resume.pdf)
 
 ##### [피드백](https://github.com/Min-92/resume/issues/new?assignees=Min-92&labels=documentation&template=feedback.md&title=%5BFEEDBACK%5D)은 언제든 환영합니다.
+
+
 
 
 
